@@ -50,22 +50,6 @@ I build ML systems that work in production — not just notebooks. My background
 
 ---
 
-## Featured Projects
-
-### 🔬 [AI-Driven Steel Superheat Prediction](https://github.com/RoshiniEvangelin/steel-superheat-prediction)
-> Bayesian-optimized LightGBM models predicting critical steel superheat metrics from 30+ metallurgical variables.  
-> **Result:** ±4.5°F MAE · R² = 0.72 &nbsp;·&nbsp; `Python` `LightGBM` `XGBoost` `Scikit-learn` `Pandas`
-
-### 🏭 [Real-Time Visual Defect Detection](https://github.com/RoshiniEvangelin/defect-detection-yolo)
-> End-to-end YOLO-based system for automated defect inspection in industrial bottling environments.  
-> **Result:** 22% accuracy improvement · 35% false-positive reduction · <100ms inference &nbsp;·&nbsp; `YOLOv5/v8` `TensorFlow` `OpenCV`
-
-### 🌍 [Global Supply Chain Optimizer](https://github.com/RoshiniEvangelin/supply-chain-optimizer)
-> ML-powered web app recommending optimal import suppliers across 185 countries with landed cost prediction.  
-> **Features:** Route optimization · Live currency conversion · Delivery-date prediction &nbsp;·&nbsp; `Flask` `Scikit-learn` `Leaflet.js`
-
----
-
 ## Experience
 
 | Role | Organization | Period |
@@ -80,7 +64,7 @@ I build ML systems that work in production — not just notebooks. My background
 
 - 🔭 Researching ML-driven blast furnace optimization at CIVS Lab
 - 🌱 Deepening expertise in LLMs, RAG pipelines, and advanced MLOps
-- 💬 Open to **ML Engineer**, **Computer Vision Engineer**, and **Applied Scientist** roles
+- 💬 Open to **ML Engineer**, **Computer Vision Engineer** roles
 
 ---
 
