@@ -68,4 +68,4 @@ I build ML systems that work in production — not just notebooks. My background
 
 ---
 
-*"Building ML systems that work in the real world, not just in notebooks."*
+
