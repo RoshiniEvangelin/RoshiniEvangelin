@@ -13,10 +13,10 @@
 
 I build ML systems that work in production — not just notebooks. My background spans **computer vision**, **predictive analytics**, and **real-time inference pipelines** across industrial and research settings.
 
-- 🔬 **Graduate Research Assistant** at [CIVS Lab, Purdue Northwest](https://civs.pnw.edu) — developing ML solutions for blast furnace optimization and steel manufacturing
-- 🏭 **Former ML Engineer at Blue3IT Solutions** — shipped YOLO-based defect detection systems with sub-100ms latency into production bottling lines
-- 📈 Improved model detection accuracy by **22%** and cut false-positive rates by **35%** across 3 production features
-- 🌍 Built a supply chain optimizer covering **185 countries** with ML-powered landed cost prediction
+-  **Graduate Research Assistant** at [CIVS Lab, Purdue Northwest](https://civs.pnw.edu) — developing ML solutions for blast furnace optimization and steel manufacturing
+-  **Former ML Engineer at Blue3IT Solutions** — shipped YOLO-based defect detection systems with sub-100ms latency into production bottling lines
+-  Improved model detection accuracy by **22%** and cut false-positive rates by **35%** across 3 production features
+- Built a supply chain optimizer covering **185 countries** with ML-powered landed cost prediction
 
 ---
 
@@ -62,9 +62,9 @@ I build ML systems that work in production — not just notebooks. My background
 
 ## Currently
 
-- 🔭 Researching ML-driven blast furnace optimization at CIVS Lab
-- 🌱 Deepening expertise in LLMs, RAG pipelines, and advanced MLOps
-- 💬 Open to **ML Engineer**, **Computer Vision Engineer** roles
+- Researching ML-driven blast furnace optimization at CIVS Lab
+- Deepening expertise in LLMs, RAG pipelines, and advanced MLOps
+- Open to **ML Engineer**, **Computer Vision Engineer** roles
 
 ---
 
